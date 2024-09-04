@@ -1,4 +1,5 @@
 # 👁️ Minimal VSCode Settings
+Collection of minimal and efficient VSCode settings for a streamlined coding experience. Just copy, paste, and start coding.
 
 ![](./vscode-settings.cover.png)
 
