@@ -1,0 +1,71 @@
+{
+    "workbench.iconTheme": "symbols",
+    "editor.fontFamily": "JetBrainsMono Nerd Font",
+    "workbench.settings.applyToAllProfiles": ["editor.fontSize", "editor.fontFamily"],
+    "editor.fontSize": 16,
+    "workbench.tree.indent": 16,
+    "terminal.integrated.fontSize": 16,
+    "editor.lineHeight": 1.8,
+    "editor.rulers": [80, 120],
+    "editor.fontLigatures": true,
+    "editor.renderLineHighlight": "gutter",
+    "workbench.editor.labelFormat": "short",
+    "explorer.compactFolders": false,
+    "breadcrumbs.enabled": false,
+    "workbench.activityBar.location": "hidden",
+    "editor.minimap.enabled": false,
+    "editor.scrollbar.horizontal": "hidden",
+    "editor.scrollbar.vertical": "hidden",
+    "explorer.fileNesting.enabled": true,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.wordWrap": "on",
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "liveServer.settings.donotShowInfoMsg": true,
+    "liveSassCompile.settings.formats": [
+        {
+            "format": "compressed",
+            "extensionName": ".min.css",
+            "savePath": "/css",
+            "savePathReplacementPairs": null
+        }
+    ],
+    "liveSassCompile.settings.generateMap": false,
+    "px-to-rem.px-per-rem": 10,
+    "[scss]": {
+        "editor.defaultFormatter": "sibiraj-s.vscode-scss-formatter"
+    },
+    "symbols.hidesExplorerArrows": false,
+    "window.commandCenter": false,
+    "workbench.layoutControl.enabled": false,
+    "security.workspace.trust.untrustedFiles": "open",
+    "editor.formatOnSave": true,
+    "prettier.printWidth": 120,
+    "explorer.confirmDelete": false,
+    "liveSassCompile.settings.forceBaseDirectory": "/css",
+    "[jsonc]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "liveServer.settings.donotVerifyTags": true,
+    "liveSassCompile.settings.showOutputWindowOn": "Error",
+    "liveSassCompile.settings.includeItems": [],
+    "codeium.enableConfig": {
+        "*": true,
+        "markdown": true
+    },
+
+    "prettier.tabWidth": 4,
+    "prettier.jsxSingleQuote": true,
+    "prettier.singleQuote": true,
+    "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
+    "terminal.integrated.defaultProfile.windows": "PowerShell",
+    "terminal.integrated.tabs.defaultIcon": "symbol-event",
+    "workbench.colorTheme": "Houston",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.smoothScrolling": true,
+    "workbench.reduceMotion": "off",
+    "editor.cursorBlinking": "smooth"
+}
