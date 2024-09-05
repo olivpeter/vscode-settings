@@ -67,5 +67,7 @@
     "editor.cursorSmoothCaretAnimation": "on",
     "editor.smoothScrolling": true,
     "workbench.reduceMotion": "off",
-    "editor.cursorBlinking": "smooth"
+    "editor.cursorBlinking": "smooth",
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnPaste": true
 }
