@@ -60,6 +60,7 @@
     "prettier.tabWidth": 4,
     "prettier.jsxSingleQuote": true,
     "prettier.singleQuote": true,
+    "prettier.semi": false,
     "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
     "terminal.integrated.defaultProfile.windows": "PowerShell",
     "terminal.integrated.tabs.defaultIcon": "symbol-event",
@@ -69,5 +70,6 @@
     "workbench.reduceMotion": "off",
     "editor.cursorBlinking": "smooth",
     "editor.defaultFormatter": "esbenp.prettier-vscode",
-    "editor.formatOnPaste": true
+    "editor.formatOnPaste": true,
+    "workbench.statusBar.visible": false
 }
