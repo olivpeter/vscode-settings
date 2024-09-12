@@ -1,7 +1,10 @@
 {
     "workbench.iconTheme": "symbols",
     "editor.fontFamily": "JetBrainsMono Nerd Font",
-    "workbench.settings.applyToAllProfiles": ["editor.fontSize", "editor.fontFamily"],
+    "workbench.settings.applyToAllProfiles": [
+        "editor.fontSize",
+        "editor.fontFamily"
+    ],
     "editor.fontSize": 16,
     "workbench.tree.indent": 16,
     "terminal.integrated.fontSize": 16,
@@ -10,6 +13,12 @@
     "editor.fontLigatures": true,
     "editor.renderLineHighlight": "gutter",
     "workbench.editor.labelFormat": "short",
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "emmet.syntaxProfiles": {
+        "javascript": "jsx"
+    },
     "explorer.compactFolders": false,
     "breadcrumbs.enabled": false,
     "workbench.activityBar.location": "hidden",
@@ -43,7 +52,6 @@
     "workbench.layoutControl.enabled": false,
     "security.workspace.trust.untrustedFiles": "open",
     "editor.formatOnSave": true,
-    "prettier.printWidth": 120,
     "explorer.confirmDelete": false,
     "liveSassCompile.settings.forceBaseDirectory": "/css",
     "[jsonc]": {
@@ -71,5 +79,6 @@
     "editor.cursorBlinking": "smooth",
     "editor.defaultFormatter": "esbenp.prettier-vscode",
     "editor.formatOnPaste": true,
-    "workbench.statusBar.visible": false
+    "workbench.statusBar.visible": false,
+    "workbench.startupEditor": "none"
 }
